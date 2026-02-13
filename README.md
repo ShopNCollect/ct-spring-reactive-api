@@ -1,3 +1,6 @@
+# ct-spring-reactive-api
+commercetools spring reactive demo
+
 # Introduction
 This demo shows the functional way of using Spring WebFlux to work with CommerceTools java SDK. This way we can use non-blocking SDK calls that return CompletableFuture and make use of reactive programming to build efficient APIs on top of CommerceTools. 
 
@@ -22,5 +25,3 @@ For further reference, please consider the following sections:
 The following guides illustrate how to use some features concretely:
 
 * [Building a Reactive RESTful Web Service](https://spring.io/guides/gs/reactive-rest-service/)
-
-
