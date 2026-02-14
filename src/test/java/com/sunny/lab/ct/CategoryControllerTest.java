@@ -12,7 +12,7 @@ import static org.mockito.Mockito.when;
 
 import java.util.concurrent.CompletableFuture;
 
-import com.amit.lab.ct.service.CategoryService;
+import com.sunny.lab.ct.service.CategoryService;
 import com.commercetools.api.models.category.Category;
 import com.commercetools.api.models.category.CategoryImpl;
 

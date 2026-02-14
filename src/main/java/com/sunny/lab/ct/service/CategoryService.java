@@ -5,7 +5,7 @@ import java.util.concurrent.CompletableFuture;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.amit.lab.ct.client.CTClient;
+import com.sunny.lab.ct.client.CTClient;
 import com.commercetools.api.client.ProjectApiRoot;
 import com.commercetools.api.models.category.Category;
 
